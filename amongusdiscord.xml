@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>amongusdiscord</Name>
+  <Name>AutoMuteUs</Name>
   <Repository>denverquane/amongusdiscord</Repository>
   <Registry>https://hub.docker.com/r/denverquane/amongusdiscord/</Registry>
   <Network>br0</Network>
