@@ -7,7 +7,7 @@
   <MyIP>10.0.1.19</MyIP>
   <Shell>sh</Shell>
   <Privileged>false</Privileged>
-  <Support>https://hub.docker.com/r/denverquane/amongusdiscord/</Support>
+  <Support>https://forums.unraid.net/topic/97834-support-amongusdiscord-automuteus/</Support>
   <Project>https://github.com/denverquane/amongusdiscord</Project>
   <Overview>Discord Bot to harness Among Us game data, and automatically mute/unmute players during the course of the game!&#xD;
 &#xD;
